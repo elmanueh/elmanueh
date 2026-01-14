@@ -2,8 +2,7 @@
 
 **Software Engineer · BSc in Software Engineering · MSc Student**
 
-I’m a **software engineer** focused on **software architecture** and building systems that scale well in both codebase and team productivity.  
-What I enjoy most is applying **Clean Architecture**, designing **modular, well-defined boundaries**, and creating **reusable modules** (tooling, libraries, internal components) that make development smoother for the rest of the team.
+I’m a **software engineer** focused on **software architecture** and building systems that scale well in both codebase and team productivity. What I enjoy most is applying **Clean Architecture**, designing **modular, well-defined boundaries**, and creating **reusable modules** (tooling, libraries, internal components) that make development smoother for the rest of the team.
 
 I like working on problems where good architecture matters: maintainability, evolution over time, and clear separation of concerns—so shipping features stays fast and safe.
 
