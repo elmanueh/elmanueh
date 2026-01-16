@@ -2,7 +2,8 @@
 
 **Software Engineer · BSc in Software Engineering · MSc Student**
 
-I’m a **software engineer** focused on **software architecture** and building systems that scale well in both codebase and team productivity. What I enjoy most is applying **Clean Architecture**, designing **modular, well-defined boundaries**, and creating **reusable modules** (tooling, libraries, internal components) that make development smoother for the rest of the team.
+I’m a **software engineer** focused on **software architecture** and building systems that scale well in both codebase and team productivity.  
+What I enjoy most is applying **Clean Architecture**, designing **modular, well-defined boundaries**, and creating **reusable modules** (tooling, libraries, internal components) that make development smoother for the rest of the team.
 
 I like working on problems where good architecture matters: maintainability, evolution over time, and clear separation of concerns—so shipping features stays fast and safe.
 
@@ -20,68 +21,19 @@ I like working on problems where good architecture matters: maintainability, evo
   </a>
 </p>
 
-
 <br/>
 
-## 🧰 Tech Stack
+## 🧰 Engineering Focus
 
-<div align="center">
-<table width="100%" align="center">
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>Programming Languages</h3>
-<p>
-<a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" style="margin-right:1px;margin-bottom:2px;"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" style="margin-right:1px;margin-bottom:2px;"/></a>
-<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" style="margin-right:1px;margin-bottom:2px;"/></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-<h3>Runtime & Platforms</h3>
-<p>
-<a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" style="margin-right:1px;margin-bottom:2px;"/></a>
-<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="margin-right:1px;margin-bottom:2px;"/></a>
-</p>
-
-<h3>Backend Frameworks</h3>
-<p>
-<a href="https://learn.microsoft.com/aspnet/"><img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" style="margin-right:1px;margin-bottom:2px;"/></a>
-<a href="https://nestjs.com/"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" style="margin-right:1px;margin-bottom:2px;"/></a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>Frontend</h3>
-<p>
-<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin-right:1px;margin-bottom:2px;"/></a>
-</p>
-
-<h3>Data & Persistence</h3>
-<p>
-<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="margin-right:1px;margin-bottom:2px;"/></a>
-<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" style="margin-right:1px;margin-bottom:2px;"/></a>
-<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" style="margin-right:1px;margin-bottom:2px;"/></a>
-</p>
-
-<h3>Messaging & DevOps</h3>
-<p>
-<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="margin-right:1px;margin-bottom:2px;"/></a>
-<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" style="margin-right:1px;margin-bottom:2px;"/></a>
-<a href="https://www.rabbitmq.com/"><img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" style="margin-right:1px;margin-bottom:2px;"/></a>
-<a href="https://kafka.apache.org/"><img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" style="margin-right:1px;margin-bottom:2px;"/></a>
-</p>
-
-</td>
-
-</tr>
-</table>
-</div>
-
-
-
+I work mainly on **backend systems**, designing and maintaining APIs and services in production environments. My experience includes working with **relational and non-relational databases** and integrating **message-based and event-driven systems** when asynchronous communication is required.
 
 <br/>
 
